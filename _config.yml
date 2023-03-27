@@ -1,7 +1,7 @@
 
 # SITE CONFIGURATION
 url: "https://cornishcatch.netlify.app"   #change this to yours
-repository: yourusername/yourrepository
+repository: Tomturner11/CornishCatch2
 title: Your recipe collection
 recipemenu: true # you can change to true and a menu of all recipes will appear
 editbutton: true # you can navigate to edit your site by going to https://yoursite.netlify.app/admin
